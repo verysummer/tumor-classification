@@ -1,7 +1,7 @@
 os
 numpy
 pandas
-sklearn.model_selection,train_test_split
+sklearn.model_selection.train_test_split
 seaborn
 scipy.stats.pearsonr
 sklearn.compose.ColumnTransformer
